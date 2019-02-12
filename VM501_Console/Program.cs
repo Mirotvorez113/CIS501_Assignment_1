@@ -10,6 +10,7 @@ namespace VM501_Console
     {
         static void Main(string[] args)
         {
+            //meh
         }
     }
 }
